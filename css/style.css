@@ -67,8 +67,16 @@
     background: linear-gradient(rgba(225, 241, 226, 0.671), rgba(255, 255, 255, 0.808));
     border: .25vmin solid black;
     border-radius: 8px;
+    width: 100px;
 }
 
+.buttons img{
+    width: 45px;
+}
+
+#up{
+    margin: auto 0;
+}
 
 
 
